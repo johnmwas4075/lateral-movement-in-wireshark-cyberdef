@@ -129,7 +129,8 @@ This analysis revealed a second hostname associated with the attacker's lateral 
 
 **Finding:** `MARKETING-PC`
 
-<img width="1326" height="661" alt="Screenshot 2026-10-10 144546" src="https://github.com/user-attachments/assets/3bbed31b-b48e-49e2-a063-8d1555910e91" />
+<img width="1260" height="693" alt="image" src="https://github.com/user-attachments/assets/3a44a224-92de-449c-b473-42f2014d300f" />
+
 
 ## Investigation Findings
 
